@@ -63,7 +63,10 @@ int main() {
 }
 ```
 # OUTPUT
-![Screenshot (18)](https://github.com/user-attachments/assets/b2f118a3-6fbf-46b5-bf33-8208a8e04e9a)
+## SYMBOL FOUND
+![WhatsApp Image 2025-04-23 at 15 33 49_2f99ceda](https://github.com/user-attachments/assets/9c244ebe-0504-4ccb-afc2-ec07a5322f8b)
+## SYMBOL NOT FOUND
+![WhatsApp Image 2025-04-23 at 15 33 49_944da901](https://github.com/user-attachments/assets/09ec02e2-7595-44be-a87e-4e6ba1a65a46)
 
 
 # RESULT
